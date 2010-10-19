@@ -3,9 +3,8 @@ README
 
 Readme for your plugin 
 
-    * Plugin author and contact email address.
-    
-    * The license for your plugin source code. If you have no special preferences, 
-      you can pick the license that is used for JOSM ("GPL v2 or later").
-      
-    * Notes for future developers, if needed.
+    * Plugin author is Upliner <xvmv@mail.ru>
+
+    * The license for plugin is "GPL v2 or later".
+
+    * Plugin uses parts of SVG Salamander project https://svgsalamander.dev.java.net/
